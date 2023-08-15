@@ -1,0 +1,1379 @@
+@media(max-width:1880px) {
+
+}
+
+@media(max-width:1780px) {
+}
+
+@media(max-width:1680px) {
+	.clinet_wrap_details {
+		max-width: 661px;
+		right: -100px;
+	}
+
+	.mt-140 {
+		margin-top: 589px;
+	}
+
+	.NewGames_slider .img-game,
+	.HotToday_slider .img-game,
+	.Favorites_slider .img-game {
+		width: 200px;
+		height: 200px;
+		margin-right: auto;
+		margin-left: auto;
+	} 
+	.NewGames_slider .game-card,
+	.HotToday_slider .game-card,
+	.Favorites_slider .game-card {
+		width: 200px;
+		margin-right: auto;
+		margin-left: auto;
+	}
+}
+
+@media(max-width:1560px) {
+	.img-game {
+		width: 200px;
+		height: 200px;
+		margin-right: 14px;
+	}
+
+	.user-profile {
+		width: 192px;
+		padding: 24px;
+		top: 101px;
+		left: 0;
+	}
+
+	.game-card {
+		margin-bottom: 15px;
+	} 
+	.f48 {
+		font-size: 43px;
+	} 
+	.py-160 {
+		padding-top: 130px;
+		padding-bottom: 130px;
+	}
+	.game-wrap
+{
+	position: relative; 
+	padding-bottom: 47.7%; 
+}
+}
+
+@media(max-width:1480px) {
+	.clinet_wrap_details {
+		max-width: 589px;
+		right: -29px;
+	}
+	.ReferFriend_man_img { 
+		max-width: 732px; 
+		right: -67px;
+	}
+}
+
+@media(max-width:1367px) {
+	.form_search .search_box {
+		width: 267px;
+	}
+	.NewGames_slider .img-game, .HotToday_slider .img-game, .Favorites_slider .img-game {
+		width: 182px;
+		height: 182px;
+	}
+	.card_wrap_itme.vew_all .img-game {
+		max-width: 216px !important;
+		height: 216px;
+	}
+	.NewGames_slider .game-card,
+	.HotToday_slider .game-card,
+	.Favorites_slider .game-card {
+		width: 182px;
+		margin-right: auto;
+		margin-left: auto;
+	}
+	.clinet-reviews {
+		max-width: 360px;
+		padding: 17px;
+		min-height: 184px;
+	}
+	.mt-140 {
+		margin-top: 465px;
+	}
+	.img-game {
+		width: 190px;
+		height: 190px;
+		margin-right: 10px;
+	}
+	.Hundreds-games-wrap {
+		padding: 140px 0 140px;
+	}
+	.theme-container {
+		max-width: 1150px;
+	}
+	.header-wrap nav ul .nav-link {
+		font-size: 20px;
+	}
+	.header-wrap nav {
+		padding: 11px 110px 11px 32px;
+	}
+	.f48 {
+		font-size: 45px;
+	}
+	.banner-content p {
+		max-width: 522px;
+		font-size: 22px;
+	}
+	.f32 {
+		font-size: 26px;
+	}
+	.f64 {
+		font-size: 53px;
+	}
+	.Instant-deposits {
+		min-height: 670px;
+	}
+	.faqs {
+		padding: 80px 0 81px;
+	}
+	.faqs h1 {
+		margin-bottom: 41px;
+	}
+	.py-160 {
+		padding-top: 100px;
+		padding-bottom: 100px;
+	}
+	
+}
+
+@media(max-width:1280px) {
+	.clinet_wrap_details {
+		max-width: 529px;
+		right: -37px;
+	}
+
+	.about-content-wrap .about-content {
+		max-width: 649px;
+	}
+
+	.about-banner {
+		max-width: 649px;
+		top: 40px;
+	}
+
+	.AboutContent {
+		padding-top: 52px;
+		padding-bottom: 65px;
+	}
+	.btn_iframe {
+		padding: 10px 16px;  
+		font-size: 14px; 
+	}
+	.Tabs-wrap .nav-tabs .nav-link {
+		padding: 16px 16px; 
+		font-size: 16px;
+		margin-right: 8px;
+	}
+	.ReferFriend_man_img {
+		max-width: 637px;
+		right: -27px;
+	}
+}
+
+@media(max-width:1199px) {
+	.theme-container {
+		max-width: 950px;
+	}
+	.ReferFriend_man_img {
+		max-width: 524px;
+		right: -61px;
+	}
+	.banner-inner {
+		min-height: 418px;
+	}
+	.banner-wrap {
+		min-height: 621px;
+	}
+
+	.img-game {
+		width: 170px;
+		height: 170px;
+		margin-right: 10px;
+	}
+
+	.f48 {
+		font-size: 38px;
+	}
+
+	.Hundreds-games-content {
+		max-width: 414px;
+	}
+
+	.pb-200 {
+		padding-bottom: 143px;
+	}
+
+	.clinet_wrap_details {
+		max-width: 493px;
+		right: 3px;
+	}
+
+	.Winning-Stories .f16 {
+		font-size: 15px;
+	}
+
+	.py-160 {
+		padding-top: 80px;
+		padding-bottom: 80px;
+	}
+
+	.claim_now {
+		padding-top: 140px;
+	}
+	.card_wrap_itme.vew_all .img-game {
+		max-width: 184px !important;
+		height: auto;
+	}  
+	.game-wrap
+    {
+	max-width: 650px; 
+	padding-bottom: 40%; 
+    }
+	.game-outer{
+		max-width: 650px; 
+	}
+	.giro-table td {
+		padding: 16px 13px !important;
+	}
+}
+
+@media(max-width:991px) {
+	.custom_table.scroll_bar.table-wrapper {
+		min-height: 557px;
+	}
+	.custom_table  button.load_more {
+		margin-left: 86px;
+	}
+	.custom_table { 
+		width: 1065px;
+		overflow-x: auto;
+	}
+	.form_search .search_box {
+		width: 158px;
+	}
+	.custom_table { 
+		padding: 34px 24px;
+	}
+	
+	.ReferFriend_man_img {
+		position: relative; 
+		bottom: 0px;
+		right: 0;
+		text-align: center; 
+		max-width: 100%; 
+	}
+	.ReferFriend_content {
+		max-width: 100%;
+	}
+	.get_start_content {
+		max-width: 100%; 
+		min-height: auto;
+	}
+	.switch_wrap_main .switch-content {
+		max-width: 300px;
+	}
+	.theme-container.tabs-menu {
+		width: 1340px; 
+		overflow-x: auto;
+	}
+	.Tabs-wrap .nav-tabs {
+		border-bottom: 0;
+		margin-bottom: 30px !important;
+	}
+	.theme-container.tabs-menu ul{
+		overflow-x: auto;
+		width: 1340px;
+	}
+	.card_wrap_itme.vew_all {
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: space-between;
+	}
+	.about-content-wrap .social-link {
+		max-width: 365px;
+		padding-left: 4px;
+	}
+
+	.about-banner {
+		max-width: 600px;
+		top: 21px;
+	}
+
+	.about-content-wrap .about-content {
+		max-width: 600px;
+	}
+
+	.f36 {
+		font-size: 31px;
+	}
+
+	.mb_none_review {
+		display: none;
+	}
+
+	.support_btn.d-flex.align-items-center.mb_none_btn {
+		display: flex !IMPORTANT;
+	}
+
+	.mt-140 {
+		margin-top: 28px;
+	}
+
+	.Reviews.content-Always {
+		padding-top: 62px;
+	}
+
+	.empty-box {
+		display: none;
+	}
+
+	.clinet_wrap_details {
+		max-width: 493px;
+		position: static;
+		margin: 0 auto;
+	}
+
+	.clinet_wrap_inner::after {
+		display: none;
+	}
+
+	.faqs {
+		padding: 60px 0 60px;
+	}
+
+	.faqs .support_btn {
+		margin-top: 17px;
+		justify-content: center;
+	}
+
+	.faqs h1 {
+		margin-bottom: 32px;
+	}
+
+	.faqs p {
+		color: #DFD6E8;
+	}
+
+	.faqs h5 {
+		margin-bottom: 16px;
+	}
+
+	.support-img img {
+		max-width: 432px;
+		display: flex;
+		justify-content: center;
+		margin: 0 auto;
+	}
+
+	.pb-200 {
+		padding-bottom: 60px;
+		padding-top: 60px;
+	}
+
+	.Instant-content {
+		max-width: 423px;
+	}
+
+	.game-card h6 {
+		color: #CBD8E7;
+	}
+
+	.Hundreds-games-wrap .support_btn {
+		justify-content: center;
+	}
+
+	.Hundreds-games-wrap .support_btn button {
+		width: 192px;
+		height: 56px;
+	}
+
+	.mb_none_btn {
+		display: flex !important;
+	}
+
+	.games-card-img {
+		max-width: 464px;
+		margin: 0 auto;
+		position: static;
+		margin-top: 32px;
+	}
+
+	.img-game {
+		width: 216px;
+		height: 216px;
+		margin-right: 10px;
+		background: none;
+		padding: 4px;
+	}
+
+	.game-wrap-row {
+		grid-template-columns: 50% 50%;
+	}
+
+	.Hundreds-games-content {
+		max-width: 100%;
+	}
+
+	.Hundreds-games-content button {
+		display: none;
+	}
+
+	.theme-container {
+		max-width: 900px;
+	}
+
+	.search-wrap input {
+		width: 252px;
+	}
+
+	.safe-betting-img {
+		margin-bottom: 32px;
+	}
+
+	.Safe-Betting-wrap {
+		padding: 67px 0;
+	}
+
+	.Safe-Betting-left {
+		padding-right: 0;
+	}
+
+	.footer-wrap {
+		background: #160E24;
+		padding: 59px 0 33px;
+	}
+
+	.games-card-img {
+		position: static;
+	}
+
+	.mb_none_img {
+		display: none;
+	}
+
+	.game-wrap-row {
+		justify-content: center;
+	}
+
+	.game-card {
+		margin-bottom: 9px;
+	}
+
+	.Hundreds-games-content button {
+		margin-left: auto;
+		margin-right: auto;
+		margin-bottom: 34px;
+	}
+
+	.f32 {
+		font-size: 24px;
+	}
+
+	.clinet-reviews p.f16.text-white {
+		text-align: left;
+	}
+
+	.Winning-Stories .f16 {
+		font-size: 16px;
+		text-align: left;
+	}
+
+	.clinet-reviews {
+		background: rgba(22, 14, 36, 0.7);
+	}
+
+	.mb_none_winngng {
+		display: none  !important;
+	}
+
+	.clinet_wrap_details button {
+		width: 192px  !important;
+	}
+
+	.start-your {
+		max-width: 400px;
+		margin: 0 auto;
+		padding-top: 120px;
+	}
+
+	.Winning-Stories {
+		padding-bottom: 76px;
+	}
+
+	.footer-bottom {
+		margin-top: 94px;
+	}
+
+	.lobby-bg .lobbyHeader {
+		display: none;
+	}
+
+	.lobby-bg.HeaderLobby-wrap .theme-container.mt-60 {
+		margin-top: 0;
+		padding-top: 60px;
+	}
+
+	.tabs_button ul {
+		justify-content: space-between;
+	}
+
+	.Search_wrap {
+		flex-direction: column-reverse;
+	}
+
+	.search_wrap .icon_wrap .form-control {
+		width: 100%;
+		margin-bottom: 8px;
+	}
+
+	.claim_now {
+		text-align: center;
+		padding-top: 97px;
+		padding-bottom: 65px;
+	}
+
+	.main_lobby .inner::before,
+	.main_lobby .inner::after {
+		display: none;
+	}
+
+	.NewGames_slider .img-game,
+	.HotToday_slider .img-game,
+	.Favorites_slider .img-game {
+		margin-left: auto;
+		margin-right: auto;
+		width: 192px;
+		height: 192px;
+	}
+
+	.NewGames_slider .game-card,
+	.HotToday_slider .game-card,
+	.Favorites_slider .game-card {
+		width: 192px;
+		height: 192px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+	.row.vew_all .img-game {
+		height: 192px;
+		margin-right: auto;
+		margin-left: auto;
+	}
+
+	.item-wrap .game-card {
+		margin-right: auto;
+		margin-left: auto;
+		width: 192px;
+		margin-bottom: 16px;
+	}
+
+	.Search_wrap {
+		margin: 15px 0 0;
+	}
+	.get_start_wrap::after{
+		bottom: 0;
+	}
+	
+}
+
+@media(max-width:768px) {
+	section.AboutContent .social-link {
+		display: none;
+	}
+	.about-content p.f20 {
+		font-size: 16px;
+	} 
+	.game-wrap
+    { 
+	padding-bottom: 50%; 
+    }
+	.card_wrap_itme.vew_all {
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: space-around;
+	}
+	.main_lobby {
+		background: none;
+	}
+
+	.btn_tabs:last-child {
+		margin-right: 0;
+	}
+
+	.lobby-bg.HeaderLobby-wrap .theme-container.mt-60 {
+		margin-top: 0;
+		padding-top: 50px;
+	}
+
+	.head_lobby {
+		padding: 32px 0px 32px;
+	}
+
+	.btn_tabs {
+		border-radius: 8px;
+		font-size: 16px;
+		line-height: 118.3%;
+		padding: 11px 16px;
+		margin-right: 7px;
+	}
+
+	.about-content-wrap {
+		display: flex;
+		flex-direction: column;
+	}
+
+	.banner-wrap {
+		min-height: auto   !important;
+		padding-bottom: 43px;
+	}
+
+	.about-banner {
+		max-width: 100%;
+		top: 20px;
+	}
+
+	.social-link ul {
+		display: flex;
+		justify-content: space-between;
+		margin-bottom: 8px !IMPORTANT;
+	}
+
+	.about-content-wrap .social-link {
+		padding-top: 0;
+	}
+
+	.about-content-wrap .about-content {
+		max-width: 100%;
+	}
+
+	section.banner-wrap.Games-bg {
+		min-height: auto;
+	}
+
+	.footer-wrap .btnsupport {
+		margin: 9px auto;
+	}
+
+	.Instant-deposits {
+		min-height: 384px;
+	}
+
+	.Always-Your-Side .f48 {
+		font-size: 40px;
+		line-height: 38px;
+		margin-bottom: 17px;
+	}
+
+	.pb-200 {
+		padding-bottom: 40px;
+		padding-top: 0;
+	}
+
+	.brand-logo {
+		margin-top: 26px;
+	}
+
+	.skrillPayment {
+		margin-right: 26px;
+		width: 108px;
+		height: 66px;
+	}
+
+	.netellerPayment {
+		width: 158px;
+		height: 66px;
+	}
+
+	.f64 {
+		font-size: 40px;
+	}
+
+	.header-wrap nav ul .nav-link {
+		margin-right: 0;
+		font-size: 16px;
+	}
+
+	.Hundreds-games-wrap {
+		padding: 90px 0 90px;
+	}
+
+	.header-wrap nav {
+		padding: 8px 20px 8px 20px;
+	}
+
+	.search-wrap {
+		display: none;
+	}
+
+	.f48 {
+		font-size: 32px;
+		line-height: 38px;
+	}
+
+	.banner-content p {
+		max-width: 400px;
+		font-size: 20px;
+		line-height: 119.3%;
+	}
+
+	.banner-content button {
+		font-size: 24px;
+		line-height: 140.8%;
+		text-align: center;
+		color: #72140E;
+		width: 400px;
+		height: 64px;
+	}
+
+	.join-with-wrap {
+		display: block;
+	}
+
+	.Safe-Betting-left {
+		max-width: 400px;
+	}
+
+	.Safe-Betting-wrap .f48 {
+		font-size: 38px;
+		line-height: 105.8%;
+		margin-bottom: 16px;
+		max-width: 390px;
+	}
+
+	.Start-Journey button {
+		width: 400px;
+	}
+
+	.start-your h1 {
+		font-size: 36px;
+	}
+
+	h6.f32.mb-8 {
+		margin-bottom: 0;
+	}
+
+	.themebtn-dark {
+		color: var(--litgray) !important;
+	}
+
+	.clinet_wrap_details {
+		margin-top: 10px;
+	}
+
+	.headerLobby {
+		display: none;
+	}
+
+	.HeaderLobby-wrap .theme-container.mt-60 {
+		margin-top: 0;
+		padding-top: 60px;
+	}
+
+	.Editprofile .f48 {
+		font-size: 36px;
+	}
+	.theme-container.tabs-menu.Tabs-wrap.mt-60 {
+		margin-top: 0;
+		padding-top: 43px !important;
+	}
+	.setting-wrap {
+		padding-bottom: 3px;
+	}
+	.mt-60.pt_60  {
+		margin-top: 0;
+		padding-top: 60px;
+	}
+	.Billing_History_wrap{
+		background: none !important;
+	}
+	.Billing_History_wrap .mt-60 { 
+		margin-top: 0;
+		padding-top: 60px;
+	}
+}
+
+@media(max-width:575px) {
+	.search_result{
+		flex-direction: column;
+	}
+	.Lobby-bg {
+        background: url('../../../images/mblnew.png') !important;
+   
+    }
+	.dsf{
+		background: url('../../../images/mblnew.png') !important;
+	}
+	.view-all-wrap {
+		padding-bottom: 64px;
+		width: calc(100% - 25px);
+		margin: 0 auto;
+	}
+	.setting-wrap-main {
+		padding-bottom: 0;
+	}
+	.main_wrap_img {
+		margin-top: 48px;
+	}
+	.EditProfile-wrap form.fomBox {
+		margin-top: 0;
+	}
+	.container.tabs-menu.Tabs-wrap.mt-60 {
+		margin-top: 0;
+		padding-top: 39px !important;
+		padding-bottom: 0 !IMPORTANT;
+	}
+	.fomBox { 
+    padding-bottom: 41px;
+}
+	.iframe_btn_wrap button.btn_iframe {
+		margin-right: 0;
+		width: calc(100% - 48px)  !important;
+		position: fixed; 
+		bottom: 38px;
+		left: 0;
+		right: 0;
+		margin: 0 auto  !important;
+	}
+	.LobbyBannerMb {
+		display: block;
+	}
+
+	.banner-wrap.lobby-bg.HeaderLobby-wrap {
+		min-height: auto !important;
+		padding-bottom: 0;
+	}
+
+	.LobbyBanner {
+		display: none;
+	}
+	.LobbyBannerMb{
+		display: block;
+	}
+
+	.mobile_menu_wrap {
+		display: inline-block;
+	}
+
+	.Winning-Stories {
+		background: url('../images/winning-stories-mb.png');
+		background-size: cover;
+	}
+
+	.clinet-reviews {
+		max-width: 360px;
+		padding: 24px;
+		min-height: 176px;
+	}
+
+	.Hundreds-games-wrap {
+		background: url('../images/games/games-bg_mb.png');
+		background-size: cover;
+	}
+
+	.Always-Your-Side {
+		background: url('../images/support-bg-mb.png');
+		background-size: cover;
+	}
+
+	.game-wrap-row {
+		display: grid;
+		grid-template-columns: 50% 50%;
+		width: 100%;
+	}
+
+	.game-card {
+		margin-left: auto;
+		margin-right: auto;
+		width: 176px;
+	}
+
+	.img-game {
+		width: 176px;
+		height: 176px;
+		background: none;
+		padding: 4px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+	.mb_none {
+		display: none;
+	}
+
+	.footer-wrap .btnsupport {
+		margin-left: auto;
+		margin-right: auto;
+		justify-content: center;
+		display: flex;
+		align-items: center;
+		margin-bottom: 30px;
+	}
+
+	.footer-log {
+		display: flex;
+		justify-content: center;
+		margin-bottom: 28px;
+	}
+
+	.footer-list li a {
+		display: flex;
+		justify-content: center;
+	}
+
+	.Safe-Betting-wrap {
+		padding: 55px 0;
+	}
+
+	.Safe-Betting-wrap {
+		background: url('../images/safe-batting-mb.png');
+		background-size: cover;
+	}
+
+	.Safe-Betting-right button {
+		width: 100%;
+	}
+
+	.mb-show {
+		display: inline;
+		margin-left: 1%;
+	}
+
+	.mb-none {
+		display: none  !important;
+	}
+
+	.ml_auto {
+		margin-left: auto  !important;
+	}
+
+	.banner-inner {
+		background: none;
+	}
+
+	.navbar-light.bgdark {
+		background: no-repeat;
+	}
+
+	.header-wrap nav {
+		padding: 0px 0px 0px 0px;
+	}
+
+	.banner-content {
+		text-align: center;
+		max-width: 400px;
+	}
+
+	.banner-content h1 {
+		margin-bottom: 16px;
+	}
+
+	.banner-content button {
+		margin-top: 32px;
+	}
+
+	button.btn.themebtn-red.ml-16 {
+		margin-left: 8px;
+	}
+
+	.header-wrap {
+		top: 61px;
+	}
+
+	.banner-wrap {
+		background: url('../images/banner_bg_mb.png');
+	}
+
+	.banner-wrap::after {
+		display: none;
+	}
+
+	.banner-wrap {
+		min-height: 570px;
+	}
+
+	.logo-dark {
+		display: none;
+	}
+
+	.logo-white {
+		display: inline;
+	}
+
+	.col-rev {
+		flex-direction: column-reverse;
+	}
+
+	.logo_footer {
+		display: inline;
+	}
+
+	.footer_second {
+		display: inline;
+	}
+
+	.footer_second p {
+		font-size: 16px;
+		line-height: 119.8%;
+		text-align: center;
+		color: #FFFFFF;
+	}
+
+	.footer-wrap {
+		background: #160E24;
+		padding: 34px 0 34px;
+	}
+
+	.footer_second {
+		display: flex;
+	}
+
+	.game-card {
+		margin-bottom: 2px;
+	}
+
+	.Hundreds-games-wrap {
+		padding: 70px 0 70px;
+	}
+
+	.Hundreds-games-wrap .f48 {
+		font-size: 39px;
+		line-height: 38px;
+		margin-bottom: 16px;
+	}
+
+	.clinet-reviews .Winning-Stories .f16 {
+		text-align: left;
+	}
+
+	.themebtn-dark {
+		border: none;
+	}
+
+	.banner-wrap.HeaderLobby-wrap {
+		background: url('../images/editprofile-mb.png');
+		min-height: 100vh;
+		background-size: cover;
+	}
+
+	.ContactUs-wrap header {
+		display: none;
+	}
+
+	.ContactUs-wrap .f48 {
+		color: #525197;
+	}
+
+	.ContactUs-wrap .ChangeAvatar {
+		display: inherit;
+	}
+	.iframe_btn_wrap .Fullscreen {
+		display: none;
+	}
+	.iframe_btn_wrap button.btn_iframe {
+		margin-right: 0;
+		width: 100%;
+	}
+}
+
+@media(max-width:480px) {
+	.theme-container.Tabs-wrap {
+		padding: 0  !important;
+	}
+	.card_wrap_itme.vew_all {
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: space-between;
+	}
+	.claim_now button {
+		margin-top: 39px;
+		width: 100%;
+	}
+
+	.Start-Journey button {
+		width: 100%;
+	}
+
+	.clinet_wrap_details button {
+		width: 168px !important;
+	}
+
+	.themebtn-red {
+		color: #72140E !important;
+	}
+
+	.fomBox {
+		width: 100%;
+	}
+
+	.mt-100 {
+		margin-top: 29px;
+	}
+
+	.HeaderLobby-wrap .theme-container.mt-60 {
+		margin-top: 0;
+		padding-top: 45px;
+	}
+
+	.input_wrap textarea.form-control {
+		min-height: 144px;
+	}
+	.item-wrap .game-card {
+		margin-bottom: 16px;
+		margin-left: auto;
+		margin-right: auto;
+		width: 192px;
+	}
+	.vew_all .item-wrap .game-card { 
+		width: 189px;
+	}
+	.YourFavoritesSlider .img-game {
+		background: none;
+		width: 192px;
+		height: 192px;
+	}
+	.theme-container.Editprofile.z-9 {
+		padding: 25px 10px;
+	}
+	.theme-container.Tabs-wrap.mt-60 {
+		padding: 0;
+	}
+	.get_start_wrap::after { 
+		height: 405px; 
+	}
+	.ReferFriend_content .f48 {
+		max-width: 356px;
+		font-size: 37px;
+		line-height: 37px; 
+	}
+	.form_search .search_box {
+		width: 314px;
+	}
+	.HeaderLobby-wrap .mobile_menu_wrap {
+		padding: 21px 16px !important;
+	}
+	.HeaderLobby-wrap .profile_header:after { 
+		width: calc(100% + 32px); 
+		left: -16px; 
+	}
+	.Always-Your-Side .support_btn {
+		justify-content: center;
+	}
+	.Always-Your-Side .support_btn button {
+		width: 179px;
+	}
+	.empty_duck{
+		min-height: 400px;
+	}
+	.empty_duck .empty_du_h1{
+		font-size: 32px;
+		font-family: 'AnebaNeue';
+		font-style: normal;
+		font-weight: 400;
+		line-height: 105.8%;
+	}
+	.empty_duck .empty_du_p{
+		font-size: 16px;
+font-family: 'AnebaNeue';
+font-style: normal;
+font-weight: 400 !important;
+line-height: 154.8%;
+	}
+}
+
+@media(max-width:376px) {
+	.Always-Your-Side .support_btn button {
+		width: 179px; 
+	}
+	.form_search .search_box {
+		width: 275px;
+	}
+	.theme-container.Editprofile.z-9 {
+		 padding: 0 10px;
+	}
+	.item-wrap .game-card {
+		margin-bottom: 16px;
+		margin-left: auto;
+		margin-right: auto;
+		width: 183px;
+	}
+	.clinet_wrap_details button {
+		width: 158px !important;
+	}
+
+	.Hundreds-games-wrap .f48,
+    .Always-Your-Side .f48,
+    .content-Always .f48 {
+		font-size: 35px;
+		line-height: 38px;
+		margin-bottom: 16px;
+	}
+
+	.img-game {
+		width: 160px;
+		height: 160px;
+		background: none;
+		padding: 4px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+	.NewGames_slider .game-card {
+		width: 160px;
+	}
+
+	.game-card {
+		margin-left: auto;
+		margin-right: auto;
+		width: 160px;
+	}
+
+	.banner-content button {
+		font-size: 22px;
+		width: 334px;
+		height: 64px;
+	}
+
+	.join-with-wrap .join-button button {
+		width: 107px;
+		height: 48px;
+		font-size: 14px;
+		margin-right: 5px;
+	}
+
+	.join-with-wrap .join-button button img {
+		width: 17px;
+	}
+
+	.btn-join img {
+		margin-right: 5px;
+	}
+
+	.mobile_menu_wrap {
+		width: 344px;
+		min-height: 63px;
+		padding: 13px;
+		bottom: 16px;
+	}
+
+	.BtnOpen span {
+		font-size: 28px;
+	}
+
+	.item-wrap .game-card {
+		margin-bottom: 16px;
+		margin-left: auto;
+		margin-right: auto;
+		width: 168px;
+	}
+	.card_wrap_itme.vew_all .game-card {
+		margin-right: auto;
+		margin-left: auto;
+		width: 168px;
+		margin-bottom: 16px;
+	}
+	.row.vew_all .img-game {
+		height: 180px;
+	}
+
+	.NewGames_slider .img-game, .HotToday_slider .img-game, .Favorites_slider .img-game {
+		margin-left: auto;
+		margin-right: auto;
+		width: 170px;
+		height: 170px;
+	}
+
+	.head_lobby {
+		padding: 23px 0px 23px;
+	}
+
+}
+
+@media(max-width:320px) {
+
+	.clinet_wrap_details button,
+	.support_btn button {
+		width: 136px !important;
+		font-size: 17px;
+	}
+	.footer-list li a {
+		font-size: 18px;
+	}
+
+	.mobile_menu_wrap {
+		width: 94%;
+		min-height: 63px;
+		padding: 10px;
+		bottom: 16px;
+	}
+
+	.f64 {
+		font-size: 36px;
+	}
+
+	.skrillPayment {
+		width: 99px;
+	}
+
+	.Hundreds-games-wrap .f48, .Always-Your-Side .f48, .content-Always .f48 {
+		font-size: 31px;
+	}
+
+	.Hundreds-games-wrap {
+		padding: 60px 0 60px;
+	}
+
+	.banner-content button {
+		font-size: 22px;
+		width: 100%;
+		height: 64px;
+	}
+
+	.banner-content .f48 {
+		font-size: 25px;
+		line-height: 30px;
+	}
+
+	.header-wrap {
+		top: 41px;
+	}
+
+	.themebtn-red,
+	.themebtn-dark {
+		width: 99px;
+		font-size: 13px;
+	}
+
+	.themebtn-red.ml-16 {
+		margin-left: 8px;
+	}
+
+	.banner-content p {
+		max-width: 400px;
+		font-size: 18px;
+	}
+
+	.Safe-Betting-wrap .f48 {
+		font-size: 35px;
+	}
+
+	.game-card {
+		width: 131px;
+	}
+
+	.img-game {
+		width: 131px;
+		height: 131px;
+	}
+}

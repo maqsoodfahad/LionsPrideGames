@@ -1,0 +1,372 @@
+@media screen and (max-width: 2560px) {}
+
+@media screen and (max-width: 1025px) {
+    .login-form {
+
+        width: 43%;
+    }
+
+    .back img {
+        width: 2.5vw;
+        height: 2.5vw;
+        margin-top: 0.5%;
+    }
+
+    .showeye {
+
+        width: 3vw;
+    }
+
+    .login-logo {
+        width: 72px;
+        margin: auto;
+    }
+
+    .w27 {
+        width: 34% !important;
+    }
+
+    .creation-header-img {
+        width: 8%;
+        cursor: pointer;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .wrap-login-body {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 100vh;
+        max-height: 180vh;
+    }
+
+    .login-form {
+        width: 56%;
+    }
+
+    .showeye {
+        width: 3vw;
+    }
+
+    .back img {
+        width: 3vw;
+        height: 3vw;
+        margin-top: 1%;
+    }
+
+    .creation-header {
+        display: none;
+    }
+
+    .mt2 {
+        margin-top: 0%;
+    }
+
+    .mt6 {
+        margin-top: 0%;
+    }
+}
+
+@media screen and (max-width: 520px) {
+    .lobby-banner-winning{
+        position: static !important;
+    }
+    .lobby-banner-winning h1 {
+
+        font-size: 32px !important;
+    }
+    .lobby-banner-winning p {
+        font-size: 20px !important;
+    }
+    .game-setting {
+        margin-top: 0%;
+        padding-top: 445px;
+    }
+
+    .des-d-none {
+        display: block !important;
+    }
+   
+    .support_btn.d-flex.align-items-center.mb-d-none {
+        display: none !IMPORTANT;
+    }
+
+
+    .support-clr {
+        color: #525197 !important;
+    }
+
+    .mbtop {
+        margin-top: 66px !important;
+    }
+
+    .newpassword-btn {
+        margin-top: 121px !important;
+    }
+
+    .reset-email {
+        display: block !important;
+    }
+
+    .mt-resend {
+        margin-top: 65px !important;
+    }
+
+    .mt-resend {
+        margin-top: 211px !important;
+    }
+
+    .showeye {
+        width: 6vw;
+    }
+
+    .signin-des {
+        font-size: 16px;
+        line-height: 19px;
+        color: #AAAAAA;
+        margin-top: 5%;
+        float: left;
+        font-family: 'AnebaNeue';
+        margin-bottom: 8%;
+    }
+
+    .dis-none {
+        display: none;
+    }
+
+    .desk-none {
+        display: block;
+    }
+
+    .center-side-login-img {
+
+        height: auto;
+
+    }
+
+    .center-side-login {
+        width: 100%;
+        height: auto;
+    }
+
+    .login-form {
+        background: transparent;
+        opacity: 0.95;
+        box-shadow: none;
+        padding-top: 0%;
+        padding-bottom: 0%;
+        left: 0%;
+        margin-top: 0;
+        width: 100%;
+        border-radius: 0;
+    }
+
+    .signin {
+        margin-top: 107px;
+    }
+
+    .login-body {
+        background-image: url("./images/mobileloginpage.png");
+    }
+
+    .wrap-login-body {
+        padding-top: 22.5%;
+    }
+
+    .login-logo {
+        width: 90px;
+        margin: auto;
+    }
+
+    .welcome-bk {
+        margin-top: 6%;
+        font-size: 32px;
+
+    }
+
+    .login-form-control {
+
+        opacity: 0.7;
+    }
+
+    .mt-reset {
+        margin-top: 192px !important;
+    }
+
+    .back img {
+        width: 4vw;
+        height: 4vw;
+        margin-right: 2%;
+        cursor: pointer;
+        margin-top: 1.5%;
+    }
+
+    .back h1 {
+        font-family: 'AnebaNeue';
+        font-size: 16px;
+        line-height: 24px;
+        color: #AAAAAA;
+        margin-top: 1%;
+        cursor: pointer;
+        margin-bottom: 5%;
+    }
+}
+
+@media screen and (max-width: 426px) {
+    .signin-des {
+        font-size: 16px;
+        line-height: 19px;
+        color: #AAAAAA;
+        margin-top: 5%;
+        float: left;
+        font-family: 'AnebaNeue';
+        margin-bottom: 8%;
+    }
+
+    .mt-resend {
+        margin-top: 206px !important;
+    }
+
+    .dis-none {
+        display: none;
+    }
+
+    .desk-none {
+        display: block;
+    }
+
+    .center-side-login-img {
+
+        height: auto;
+
+    }
+
+    .center-side-login {
+        width: 100%;
+        height: auto;
+    }
+
+    .login-form {
+        background: transparent;
+        opacity: 0.95;
+        box-shadow: none;
+        padding-top: 0%;
+        padding-bottom: 0%;
+        left: 0%;
+        margin-top: 0;
+        width: 100%;
+        border-radius: 0;
+    }
+
+    .signin {
+        margin-top: 107px;
+    }
+
+    .login-body {
+        background-image: url("./images/mobileloginpage.png");
+    }
+
+    .wrap-login-body {
+        padding-top: 27.5%;
+    }
+
+    .login-logo {
+        width: 90px;
+        margin: auto;
+    }
+
+    .welcome-bk {
+        margin-top: 6%;
+
+    }
+
+    .login-form-control {
+
+        opacity: 0.7;
+    }
+
+    .mt-reset {
+        margin-top: 192px !important;
+    }
+
+    .back img {
+        width: 4vw;
+        height: 4vw;
+        margin-right: 2%;
+        cursor: pointer;
+        margin-top: 1.5%;
+    }
+
+    .back h1 {
+        font-family: 'AnebaNeue';
+        font-size: 16px;
+        line-height: 24px;
+        color: #AAAAAA;
+        margin-top: 1%;
+        cursor: pointer;
+        margin-bottom: 5%;
+    }
+}
+
+@media screen and (max-width: 376px) {
+    .newpassword-btn {
+        margin-top: 97px !important;
+    }
+
+    .back img {
+        width: 5vw;
+        height: 5vw;
+        margin-right: 2%;
+        cursor: pointer;
+        margin-top: 1.5%;
+    }
+
+    .mt-resend {
+        margin-top: 164px !important;
+    }
+
+    .back h1 {
+        margin-bottom: 10%;
+    }
+
+    .wrap-login-body {
+        padding-top: 39.5%;
+    }
+
+    .login-logo {
+        width: 76px;
+        margin: auto;
+    }
+
+    /* .wrap-login-body {
+        padding-top: 50.5%;
+    } */
+    .mt-reset {
+        margin-top: 164px !important;
+    }
+}
+
+@media screen and (max-width: 321px) {
+    .wrap-login-body {
+        padding-top: 50.5%;
+    }
+
+    .login-logo {
+        width: 76px;
+        margin: auto;
+    }
+
+    .mt-reset {
+        margin-top: 98px !important;
+    }
+
+    .container-2 {
+
+        padding-left: 7%;
+    }
+
+    .mt-resend {
+        margin-top: 168px !important;
+    }
+}
